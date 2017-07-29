@@ -1,0 +1,35 @@
+img{
+  width: 300px;
+  margin: 10px auto;
+}
+body{
+  background-color: black;
+}
+ul{
+  text-align: left;
+}
+li{
+  list-style: none;
+}
+.imgHolder{
+  text-align: center;
+}
+.cardContent{
+  border: solid grey 1px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 8px grey;
+}
+.textContent{
+  width: 300px;
+  border: solid grey 1px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.card{
+  width: 350px;
+  background-color: white;
+  margin: 20px auto;
+  border-radius: 10px;
+  padding: 10px;
+}
